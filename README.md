@@ -2,4 +2,5 @@
 # Test task React.js
 
 Fake data server - https://my-json-server.typicode.com/ArtistHam/fakeData
-Project created by Create-React-App
+
+```Project created by Create-React-App```
