@@ -1,32 +1,34 @@
-[
-  {
-    "_id": "5d19d1ed5eca52251ff2102f",
-    "name": "Cherie Phillips",
-    "company": "QUIZKA",
-    "phone": "+1 (822) 569-3834"
-  },
-  {
-    "_id": "5d19d1ed0b90bea6fc2fd214",
-    "name": "Liza Christensen",
-    "company": "VERAQ",
-    "phone": "+1 (878) 493-2498"
-  },
-  {
-    "_id": "5d19d1ed22a09a7829203ca9",
-    "name": "Ernestine Houston",
-    "company": "SATIANCE",
-    "phone": "+1 (916) 538-2743"
-  },
-  {
-    "_id": "5d19d1ed671b901bdf7e3715",
-    "name": "Nolan Welch",
-    "company": "EDECINE",
-    "phone": "+1 (968) 514-2344"
-  },
-  {
-    "_id": "5d19d1edd9e435bc5bffc062",
-    "name": "Rich Mckay",
-    "company": "GOGOL",
-    "phone": "+1 (920) 556-3879"
-  }
-]
+{
+  users: [
+    {
+      "_id": "5d19d1ed5eca52251ff2102f",
+      "name": "Cherie Phillips",
+      "company": "QUIZKA",
+      "phone": "+1 (822) 569-3834"
+    },
+    {
+      "_id": "5d19d1ed0b90bea6fc2fd214",
+      "name": "Liza Christensen",
+      "company": "VERAQ",
+      "phone": "+1 (878) 493-2498"
+    },
+    {
+      "_id": "5d19d1ed22a09a7829203ca9",
+      "name": "Ernestine Houston",
+      "company": "SATIANCE",
+      "phone": "+1 (916) 538-2743"
+    },
+    {
+      "_id": "5d19d1ed671b901bdf7e3715",
+      "name": "Nolan Welch",
+      "company": "EDECINE",
+      "phone": "+1 (968) 514-2344"
+    },
+    {
+      "_id": "5d19d1edd9e435bc5bffc062",
+      "name": "Rich Mckay",
+      "company": "GOGOL",
+      "phone": "+1 (920) 556-3879"
+    }
+  ]
+}
